@@ -16,5 +16,5 @@ max-height: 650px;
 }
 
 .teste{
-    background-position: center;
+    transform: scale(1.5);
 }
