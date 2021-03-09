@@ -20,12 +20,6 @@ background-color: #ff5754!important;
     } 
   };
 
-  @media (min-width: 576px) {
-    .teste2{ 
-      display: none !important; 
-    } 
-  };
-
 .foto-mulher{
     /*position: relative;*/
     max-width: 1435px;
@@ -38,3 +32,9 @@ background-color: #ff5754!important;
 #btn{
     outline-color: white;
 }
+
+@media (min-width: 768px) {
+    .teste2{ 
+      display: none !important; 
+    } 
+  };
