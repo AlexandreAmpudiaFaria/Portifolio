@@ -56,3 +56,71 @@ background-color: #ff5754!important;
         display: none!important;
     }
 }
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+<link rel="stylesheet" type="text/css" href="https://mreq.github.io/slick-lightbox/dist/slick-lightbox.css">
+
+
+.instagram-slider2 {
+  padding: 0 20px;
+  margin: 0 30px;
+}
+
+.instagram-slider2 .single {
+  width: 150px;
+  height: 150px;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border: 2px solid #fff;
+}
+
+.instagram-slider2 .single img {
+  width: 150px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+  content: '';
+}
+
+.slick-arrow {
+  background-color: transparent;
+  color: transparent;
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  display: block;
+  top: 50%;
+  margin-top: -25px;
+  border: none;
+  outline: 0;
+  cursor: pointer;
+  width: 55px;
+  height: 55px;
+  padding: 0;
+  z-index: 5;
+  border-top: 3px solid #fefe15;
+  border-right: 3px solid #fefe15;
+  -webkit-transition: opacity 0.3s ease-out;
+  -moz-transition: opacity 0.3s ease-out;
+  transition: opacity 0.3s ease-out;
+}
+
+.slick-arrow:hover {
+  opacity: .5
+}
+
+.slick-prev {
+  display: none!important;
+}
+
+.slick-next {
+    display: none!important;
+}  
