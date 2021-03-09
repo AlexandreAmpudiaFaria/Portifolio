@@ -166,11 +166,21 @@
         </div>
     </div>
 
-    <div class="justify-content-center" id="mobile">
+    <div class="single-item autoplay ">
         <div>
-            <img class="img-fluid" src="./assets/teste/foto-1.png" alt="">
-            <img class="img-fluid" src="./assets/teste/foto-2.png" alt="">
-            <img class="img-fluid" src="./assets/teste/foto-3.png" alt="">
+            <img class="foto"
+                src="./assets/teste/foto-1.png"
+                alt="#" />
+        </div>
+        <div> 
+            <img class="foto"
+                src="./assets/teste/foto-2.png"
+                alt="#" />
+        </div>
+        <div>
+                <img class="foto"
+                    src="./assets/teste/foto-3.png"
+                    alt="#" />
         </div>
     </div>
 
@@ -393,6 +403,26 @@
     <div class="container mb-1">
         <hr class="dropdown-divider">
     </div>
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.js"></script>
+
+    <script type="text/javascript">
+        $('.single-item').slick({
+            autoplay: true, /* this is the new line */
+            autoplaySpeed: 2000,
+            //dots: true,
+            infinite: true,
+            speed: 500,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+        });
+    </script>
 
 </body>
 
