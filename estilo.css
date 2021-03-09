@@ -13,8 +13,9 @@ background-color: #ff5754!important;
 .foto-mulher{
 max-width: 1440px!important;
 max-height: 650px;
+transform: scale(1.5);
 }
 
 .teste{
-    transform: scale(1.5);
+    background-color: #ff5754!important;
 }
