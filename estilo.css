@@ -56,6 +56,11 @@ background-color: #ff5754!important;
         display: none!important;
     }
 }
+@media (max-width: 576px) { 
+    #regua{
+        margin-top: -50px;
+    }
+}
 
 
 
