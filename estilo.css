@@ -40,6 +40,7 @@ background-color: #ff5754!important;
 #promo{
     text-decoration: line-through;
 }
+
 @media (min-width: 768px) {
     #teste2{
         display: none!important;
