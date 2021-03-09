@@ -25,24 +25,6 @@ a.nav-link{
 background-color: #ff5754!important;
 };
 
-/*@media (min-width: 768px) {
-    .teste{
-        display: none!important;
-    }
-    };*/
-
-@media (max-width: 576px) { 
-    .imagens{ 
-        display: none !important; 
-      } 
-    };
-
-/*
-.foto-mulher{
-    position: relative;
-    max-width: 1435px;
-*/
-
 .teste{
     background-color: #ff5754!important;
 }
@@ -54,3 +36,9 @@ background-color: #ff5754!important;
 #regua{
     margin-top: -70px;
 }
+
+@media (max-width: 576px) { 
+    #retirar{
+        display: none!important;
+    }
+    }
