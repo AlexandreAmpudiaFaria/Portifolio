@@ -12,7 +12,7 @@ background-color: #ff5754!important;
 
 .foto-mulher{
     position: relative;
-    width: auto;
+    max-width: 1440px;
 }
 
 .teste{
