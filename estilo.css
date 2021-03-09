@@ -29,10 +29,10 @@ background-color: #ff5754!important;
     .teste{
         display: none!important;
     }
-    };
+    };*/
 
 @media (max-width: 576px) { 
-    .teste{ 
+    .imagens{ 
         display: none !important; 
       } 
     };
