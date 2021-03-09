@@ -25,11 +25,11 @@ a.nav-link{
 background-color: #ff5754!important;
 };
 
-@media (max-width: 480px) {
+@media (max-width: 576px) { 
     .teste{ 
-      display: none !important; 
-    } 
-};
+        display: none !important; 
+      } 
+    }
 
 /*
 .foto-mulher{
