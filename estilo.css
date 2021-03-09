@@ -25,7 +25,7 @@ a.nav-link{
 background-color: #ff5754!important;
 };
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
     .teste{
         display: none!important;
     }
