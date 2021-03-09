@@ -29,13 +29,13 @@ background-color: #ff5754!important;
     .teste{
         display: none!important;
     }
-    }
+    };
 
 @media (max-width: 576px) { 
     .teste{ 
         display: none !important; 
       } 
-    }
+    };
 
 /*
 .foto-mulher{
