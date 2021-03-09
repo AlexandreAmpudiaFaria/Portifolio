@@ -20,6 +20,12 @@ background-color: #ff5754!important;
     } 
   };
 
+  @media only screen and (min-width: 700px) {
+    .teste2{ 
+      display: none !important; 
+    } 
+  };
+
 .foto-mulher{
     /*position: relative;*/
     max-width: 1435px;
