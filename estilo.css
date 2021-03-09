@@ -21,6 +21,10 @@ a.nav-link{
     font-weight: 300;
 }
 
+.dropdown a:hover{
+
+}
+
 #newsletter{
     color: #747474;
     font-size: 12pt;
