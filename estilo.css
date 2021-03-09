@@ -45,7 +45,12 @@ background-color: #ff5754!important;
     #teste2{
         display: none!important;
     }
-}    
+}   
+@media (min-width: 768px) {
+    #mobile{
+        display: none!important;
+    }
+} 
 @media (max-width: 576px) { 
     #retirar{
         display: none!important;
