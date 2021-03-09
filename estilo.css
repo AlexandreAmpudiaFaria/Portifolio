@@ -74,7 +74,7 @@ background-color: #ff5754!important;
 }
 @media (max-width: 576px) { 
     #porDentro{
-        align-content: center!important;
+        /*align-content: center!important;*/
         align-items: center!important;
     }
 }
