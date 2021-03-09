@@ -37,6 +37,10 @@ background-color: #ff5754!important;
     margin-top: -70px;
 }
 
+#promo{
+    text-decoration: line-through;
+}
+
 @media (max-width: 576px) { 
     #retirar{
         display: none!important;
