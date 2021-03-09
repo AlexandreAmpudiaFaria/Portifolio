@@ -2,6 +2,10 @@
 background-color: #272727!important;
 }
 
+.menu{
+    background-color: #272727!important; 
+}
+
 a.nav-link{
     font-size: 10pt;
 }
