@@ -164,6 +164,56 @@ max-height: 32px;
     border: none;
 }
 
+#btn-login{
+    font-size: 9pt;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    background-color: #636363;
+    width: 170px;
+    height: 40px;
+    border: none;
+}
+
+#btn-cadastrar{
+    font-size: 9pt;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    background-color: #636363;
+    width: 170px;
+    height: 40px;
+    border: none;
+}
+
+#btn-enviar{
+    font-size: 9pt;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    background-color: #636363;
+    width: 100px;
+    height: 40px;
+    border: none;
+}
+
+#btn-voltar2{
+    font-size: 9pt;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    background-color: #636363;
+    width: 100px;
+    height: 40px;
+    border: none;
+}
+
+#btn-voltar2{
+    font-size: 9pt;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    background-color: #636363;
+    width: 95px;
+    height: 22px;
+    border: none;
+}
+
 .navList{
     list-style-type: none;
     color: #747474;
