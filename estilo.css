@@ -57,6 +57,10 @@ max-width: 32px;
 max-height: 32px;
 }
 
+.navList{
+    list-style-type: none;
+}
+
 @media (min-width: 768px) {
     #teste2{
         display: none!important;
