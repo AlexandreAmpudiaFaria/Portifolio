@@ -103,6 +103,11 @@ max-height: 32px;
     max-height: 24px;
 }
 
+#footer-icons{
+    max-width: 185px;
+    max-height: 66px;
+}
+
 #tray{
     background: #ccc;
     color: #666 !important;
