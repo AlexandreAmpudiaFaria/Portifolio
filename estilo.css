@@ -250,8 +250,8 @@ max-height: 32px;
 }
 @media (max-width: 576px) { 
     #porDentro{
-        /*align-content: center!important;*/
-        align-items: center!important;
+        align-content: center!important;
+        /*align-items: center!important;*/
     }
 }
 
