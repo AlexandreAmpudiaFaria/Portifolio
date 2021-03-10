@@ -69,6 +69,11 @@ max-width: 32px;
 max-height: 32px;
 }
 
+#icon-contact{
+    max-width: 24px;
+    max-height: 24px;
+}
+
 .navList{
     list-style-type: none;
     color: #747474;
