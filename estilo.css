@@ -240,7 +240,7 @@ max-height: 32px;
 border: none!important;
 height: 365px!important;
 width: 265px!important;
-margin-right: 70px;
+margin-right: 50px;
 }
 
 
@@ -333,10 +333,10 @@ margin-right: 70px;
   opacity: .5
 }
 
-.slick-prev:before{
-    content: '<'!important;
+.slick-prev{
+    display: none!important;
   }
 
-.slick-next:before{
-    content: '>'!important;
+.slick-next{
+    display: none!important;
   }
