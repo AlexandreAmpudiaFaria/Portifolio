@@ -223,10 +223,16 @@ max-height: 32px;
     margin-top: 10px;
 }
 
+#produto-carousel{
+    margin-right: 10px;
+}
+
 .navList{
     list-style-type: none;
     color: #747474;
 }
+
+
 
 @media (min-width: 768px) {
     #teste2{
