@@ -125,6 +125,24 @@ max-height: 32px;
     height: 50px;
 }
 
+#btn-finalizar{
+    background-color: #86c100;
+    width: 170px;
+    height: 50px;
+}
+
+#btn-continuar{
+    background-color: #636363;
+    width: 170px;
+    height: 50px;
+}
+
+#btn-voltar{
+    background-color: #636363;
+    width: 170px;
+    height: 50px;
+}
+
 .navList{
     list-style-type: none;
     color: #747474;
