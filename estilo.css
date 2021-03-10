@@ -74,6 +74,11 @@ max-height: 32px;
     max-height: 24px;
 }
 
+#bandeiras{
+    max-width: 367px;
+    max-height: 77px;
+}
+
 .navList{
     list-style-type: none;
     color: #747474;
