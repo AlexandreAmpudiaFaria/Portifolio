@@ -38,6 +38,10 @@ display: block;
     font-weight: 500;
 }
 
+#exampleInputEmail1{
+max-height: 30px;
+}
+
 #title{
     font-size: 11pt;
     font-family: 'Rubik', sans-serif;
