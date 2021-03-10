@@ -324,21 +324,6 @@
                 </div>
             </div>
         </div>
-        <div id="produto-carousel">
-            <!--Produto 1-->
-            <div class="card">
-                <a href="#"><img class="card-img-top" src="./assets/teste/produto-1.png" alt=""></a>
-                <div class="card-body">
-                    <small>Blusa Ciganinha Bordada Branca</small>
-                    </br>
-                    <small class="mt-0 mb-0" id="promo">R$ 198,90</small>
-                    </br>
-                    <small class="mt-0 mb-0"><b>R$ 159,90</b></small>
-                    </br>
-                    <small class="mt-0 mb-0">ou <b>10x</b> de <b>R$ 15,99</b> s/ juros</small>
-                </div>
-            </div>
-        </div>  
      </div>
 
 
@@ -760,7 +745,17 @@
     <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.js"></script>
 
-    
+    <script type="text/javascript">
+        $('.single-item').slick({
+            autoplay: true, /* this is the new line */
+            autoplaySpeed: 2000,
+            //dots: true,
+            infinite: true,
+            speed: 500,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+        });
+    </script>
 
     <script type="text/javascript">
         $('.carousel').slick({

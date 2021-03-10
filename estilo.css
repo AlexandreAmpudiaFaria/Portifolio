@@ -332,10 +332,10 @@ width: 265px!important;
   opacity: .5
 }
 
-.slick-prev {
-  display: none!important;
-}
+.slick-prev:before{
+    content: '<'!important;
+  }
 
-.slick-next {
-    display: none!important;
-}  
+.slick-next:before{
+    content: '>'!important;
+  }
