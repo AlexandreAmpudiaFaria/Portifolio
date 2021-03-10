@@ -233,7 +233,7 @@ max-height: 32px;
 }
 
 .card{
-border: none;
+border: none!important;
 }
 
 
