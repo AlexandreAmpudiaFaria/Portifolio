@@ -52,6 +52,11 @@ background-color: #ff5754!important;
     text-decoration: line-through;
 }
 
+#icon-social{
+max-width: 32px;
+max-height: 32px;
+}
+
 @media (min-width: 768px) {
     #teste2{
         display: none!important;
