@@ -234,6 +234,8 @@ max-height: 32px;
 
 .card{
 border: none!important;
+height: 365px!important;
+width: 265px!important;
 }
 
 
