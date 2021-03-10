@@ -95,6 +95,17 @@ max-height: 32px;
     max-height: 24px;
 }
 
+#tray{
+    background: #ccc;
+    color: #666 !important;
+    display: inline-block;
+    font: 400 9px/20px Verdana, sans-serif !important;
+    margin: auto;
+    padding: 0 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 #bandeiras{
     max-width: 367px;
     max-height: 77px;
