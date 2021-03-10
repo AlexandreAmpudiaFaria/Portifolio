@@ -59,6 +59,7 @@ max-height: 32px;
 
 .navList{
     list-style-type: none;
+    color: #747474;
 }
 
 @media (min-width: 768px) {
