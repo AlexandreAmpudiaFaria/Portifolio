@@ -143,6 +143,7 @@ max-height: 32px;
     width: 166px;
     height: 50px;
     border: none;
+    margin-right: 10px;
 }
 
 #btn-continuar{
@@ -153,6 +154,7 @@ max-height: 32px;
     width: 166px;
     height: 50px;
     border: none;
+    margin-right: 10px;
 }
 
 #btn-voltar{
@@ -173,6 +175,7 @@ max-height: 32px;
     width: 166px;
     height: 40px;
     border: none;
+    margin-right: 10px;
 }
 
 #btn-cadastrar{
@@ -183,6 +186,7 @@ max-height: 32px;
     width: 166px;
     height: 40px;
     border: none;
+    margin-right: 10px;
 }
 
 #btn-enviar{
@@ -193,6 +197,7 @@ max-height: 32px;
     width: 96px;
     height: 40px;
     border: none;
+    margin-right: 10px;
 }
 
 #btn-voltar2{
@@ -203,6 +208,7 @@ max-height: 32px;
     width: 96px;
     height: 40px;
     border: none;
+    margin-right: 10px;
 }
 
 #btn-calcular{
@@ -213,6 +219,7 @@ max-height: 32px;
     width: 96px;
     height: 30px;
     border: none;
+    margin-top: 10px;
 }
 
 .navList{
