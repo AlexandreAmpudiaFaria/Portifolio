@@ -39,7 +39,11 @@ display: block;
 }
 
 #exampleInputEmail1{
-max-height: 30px;
+max-height: 40px;
+}
+
+#button-addon2{
+    max-height: 40px;
 }
 
 #title{
