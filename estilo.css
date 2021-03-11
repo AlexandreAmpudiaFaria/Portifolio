@@ -23,7 +23,7 @@ a.nav-link{
 
 .dropdown:hover>.dropdown-menu{
 display: block;
-background: rgba(0,173,255,.54);
+background: rgba(139, 143, 145, 0.582);
 }
 
 #newsletter{
