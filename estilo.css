@@ -227,6 +227,11 @@ max-height: 32px;
     margin-right: 90px;
 }
 
+#rodapeDesktop{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .navList{
     list-style-type: none;
     color: #747474;
