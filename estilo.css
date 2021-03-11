@@ -345,9 +345,9 @@ max-width: 270px!important;
 }
 
 .slick-prev{
-    display: none!important;
+    content: '<';
   }
 
 .slick-next{
-    display: none!important;
+    content: '>';
   }
