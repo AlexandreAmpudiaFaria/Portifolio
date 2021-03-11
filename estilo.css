@@ -233,9 +233,7 @@ max-height: 32px;
     margin-top: 10px;
 }
 
-#produto-carousel{
-    margin-right: 90px;
-}
+
 
 #rodapeDesktop{
     margin-top: 20px;
@@ -249,7 +247,11 @@ max-height: 32px;
 
 .carousel {
     width: 1140px;
-  }
+}
+
+/*#produto-carousel{
+    margin-right: 90px;
+}*/
 
 .card{
 border: none!important;
