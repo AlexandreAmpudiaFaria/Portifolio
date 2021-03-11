@@ -26,9 +26,9 @@ display: block;
 background: rgba(254, 255, 255, 0.856);
 }
 
-.dropdown:hover>.dropdown-menu>.list-group>.list-group-item{
-    background: rgba(254, 255, 255, 0.856);
-    background-color: rgba(254, 255, 255, 0.856);
+.list-group-item{
+    background: rgba(254, 255, 255, 0.856)!important;
+    background-color: rgba(254, 255, 255, 0.856)!important;
     }
 
 #newsletter{
