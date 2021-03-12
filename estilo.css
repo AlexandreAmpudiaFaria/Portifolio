@@ -324,6 +324,10 @@ max-width: 270px!important;
     margin-left: 50%!important;
 }
 
+#reguaMobile{
+margin-top: -15px;
+}
+
 @media (min-width: 1440px) {
     #fotomulher{
         margin-top: 115px!important;
