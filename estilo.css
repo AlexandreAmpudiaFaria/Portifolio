@@ -61,6 +61,7 @@ li.list-group-item{
 .nav-item::after{
     content: '';
     display: block;
+    margin-top: 10px;
     width: 0;
     height: 2px;
     color: #ff5754!important;
