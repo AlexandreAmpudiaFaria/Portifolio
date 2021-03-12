@@ -350,7 +350,7 @@ margin-top: -20px;
         display: none!important;
     }
 }
-@media (min-width: 768px) {
+@media (min-width: 1366px) {
     #mobile{
         display: none!important;
     }
