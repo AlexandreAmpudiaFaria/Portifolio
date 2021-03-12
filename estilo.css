@@ -351,7 +351,7 @@ max-width: 270px!important;
 }
 @media (max-width: 576px) { 
     #regua{
-        margin-top: 15px;
+        margin-top: 1px;
     }
 }
 @media (max-width: 576px) { 
