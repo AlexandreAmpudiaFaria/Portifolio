@@ -323,36 +323,26 @@ max-width: 270px!important;
         margin-top: 115px!important;
     }
 }
-
-@media (max-width: 576px) { 
-    #fotomulher{
-        margin-top: 30px!important;
-}
-
 @media (min-width: 768px) {
     #teste2{
         display: none!important;
     }
 }
-
 @media (min-width: 768px) {
     #mobile{
         display: none!important;
     }
 } 
-
 @media (max-width: 576px) { 
     #retirar{
         display: none!important;
     }
 }
-
 @media (max-width: 576px) { 
     #regua{
         margin-top: -50px;
     }
 }
-
 @media (max-width: 576px) { 
     #porDentro{
         align-content: center!important;
