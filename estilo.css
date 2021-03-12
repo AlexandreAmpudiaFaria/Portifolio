@@ -325,12 +325,6 @@ max-width: 270px!important;
     }
 }
 @media (max-width: 576px) { 
-    #fotomulher{
-        margin-top: 33px!important;
-        transform: none!important;
-    }
-}
-@media (max-width: 576px) { 
     .teste{
         background-color: #ff5754!important;
     }
