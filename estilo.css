@@ -60,7 +60,7 @@ a.nav-link{
     margin:auto
 }
 
-li.list-group-item{
+.li>a{
     display: inline-block;
 }
 
@@ -68,7 +68,7 @@ li.list-group-item{
     content: '';
     display: block;
     margin-top: 20px;
-    margin-bottom: -15px;
+    margin-bottom: -25px;
     width: 0;
     height: 2px;
     color: #ff5754!important;
