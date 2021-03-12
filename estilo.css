@@ -57,7 +57,7 @@ a.nav-link{
     content: '';
     display: block;
     margin-top: 20px;
-    margin-bottom: -25px;
+    margin-bottom: -30px;
     width: 0;
     height: 2px;
     color: #ff5754!important;
@@ -286,7 +286,7 @@ max-height: 32px;
 }
 
 .carousel {
-    width: 1140px;
+    /*width: 1140px;*/
 }
 
 /*#produto-carousel{
