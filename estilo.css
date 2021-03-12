@@ -323,7 +323,7 @@ max-width: 270px!important;
 }
 
 #reguaMobile{
-margin-top: -15px;
+margin-top: -20px;
 }
 
 @media (min-width: 1440px) {
@@ -338,8 +338,8 @@ margin-top: -15px;
     }
 }
 @media (max-width: 576px) { 
-    .teste{
-        background-color: black;
+    .teste,#bag{
+        color: #747474;
     }
 }
 @media (max-width: 576px) { 
