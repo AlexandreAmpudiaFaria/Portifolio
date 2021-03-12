@@ -132,7 +132,8 @@ background-color: #ff5754!important;
 }
 
 #regua{
-    margin-top: -70px;
+    margin-top: 30px;
+    transform: scale(1.06);
 }
 
 #icon-social{
