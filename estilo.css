@@ -355,6 +355,11 @@ margin-top: -20px;
         display: none!important;
     }
 } 
+@media (min-width: 1366px) {
+    #teste2{
+        display: none!important;
+    }
+}
 @media (max-width: 576px) { 
     #retirar{
         display: none!important;
