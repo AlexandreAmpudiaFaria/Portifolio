@@ -321,6 +321,13 @@ max-width: 270px!important;
 @media (min-width: 1440px) {
     #fotomulher{
         margin-top: 115px!important;
+        transform: scale(1.6);
+    }
+}
+@media (max-width: 576px) { 
+    #fotomulher{
+        margin-top: 33px!important;
+        transform: none!important;
     }
 }
 @media (min-width: 768px) {
@@ -340,7 +347,7 @@ max-width: 270px!important;
 }
 @media (max-width: 576px) { 
     #regua{
-        margin-top: -50px;
+        margin-top: 15px;
     }
 }
 @media (max-width: 576px) { 
