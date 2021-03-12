@@ -49,6 +49,10 @@ a.nav-link{
     font-weight: 300;
 }
 
+#ajustar{
+    align-content: center!important;
+}
+
 .dropdown:hover>.dropdown-menu{
 display: block;
 background: rgba(254, 255, 255, 0.856);
