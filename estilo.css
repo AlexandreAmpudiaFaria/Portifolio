@@ -59,7 +59,7 @@ a.nav-link{
     margin-top: 20px;
     margin-bottom: -30px;
     width: 0;
-    height: 2px;
+    height: 5px;
     color: #ff5754!important;
     background:  #ff5754!important;
     transition: width .3s;
