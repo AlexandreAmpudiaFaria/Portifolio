@@ -312,18 +312,14 @@ border: none!important;
 max-width: 270px!important;
 }
 
-#fotomulher{
-    margin-top: 109px!important;
-    transform: scale(1.5);
-}
-
 #ajustar{
     margin-right: 50%!important;
     margin-left: 50%!important;
 }
 
 #banner{
-    
+    margin-top: 109px!important;
+    transform: scale(1.5);
 }
 
 #reguaMobile{
