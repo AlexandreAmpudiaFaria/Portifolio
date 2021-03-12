@@ -331,6 +331,11 @@ max-width: 270px!important;
     }
 }
 @media (max-width: 576px) { 
+    .teste{
+        background-color: #ff5754!important;
+    }
+}
+@media (max-width: 576px) { 
     .nav-item::after{
         display: none!important;
     }
