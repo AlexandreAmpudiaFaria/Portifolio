@@ -298,6 +298,9 @@ border: none!important;
 max-width: 270px!important;
 }
 
+#fotomulher{
+    transform: scale(2);
+}
 
 
 @media (min-width: 768px) {
