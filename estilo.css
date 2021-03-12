@@ -330,6 +330,11 @@ max-width: 270px!important;
         transform: none!important;
     }
 }
+@media (max-width: 576px) { 
+    .nav-item::after{
+        display: none!important;
+    }
+}
 @media (min-width: 768px) {
     #teste2{
         display: none!important;
