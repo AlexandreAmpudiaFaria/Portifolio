@@ -337,7 +337,7 @@ margin-top: -20px;
     }
 }
 @media (max-width: 576px) { 
-    #fotomulher{
+    #banner{
         display: none!important;
     }
 }
