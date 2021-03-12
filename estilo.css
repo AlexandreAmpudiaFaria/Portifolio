@@ -318,7 +318,7 @@ max-width: 270px!important;
 }
 
 #banner{
-    margin-top: 75px!important;
+    margin-top: 64px!important;
     transform: scale(1.265);
     max-width: 1190px;
     max-height: 600px;
@@ -330,11 +330,10 @@ margin-top: -20px;
 
 @media (min-width: 1440px) {
     #banner{
-        max-width: 1190px;
-        max-height: 600px;
-        margin-top: 110px!important;
-        transform: scale(1.5);
-    }
+        max-width: 1190px!important;
+        max-height: 600px!important;
+        margin-top: 120px!important;
+        transform: scale(1.39)!important;
 }
 @media (max-width: 576px) { 
     #banner{
