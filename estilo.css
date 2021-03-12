@@ -302,6 +302,11 @@ max-width: 270px!important;
     transform: scale(1.2);
 }
 
+#ajustar{
+    margin-right: 50%!important;
+    margin-left: 50%!important;
+}
+
 
 @media (min-width: 768px) {
     #teste2{
