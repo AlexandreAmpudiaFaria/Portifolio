@@ -331,7 +331,7 @@ max-width: 270px!important;
 }
 @media (max-width: 576px) { 
     .teste{
-        background-color: #272727!important
+        background-color: black;
     }
 }
 @media (max-width: 576px) { 
