@@ -323,8 +323,7 @@ max-width: 270px!important;
 }
 
 #banner{
-    margin-top: 115px!important;
-    transform: scale(1.6);
+    
 }
 
 #reguaMobile{
@@ -332,7 +331,7 @@ margin-top: -20px;
 }
 
 @media (min-width: 1440px) {
-    #fotomulher{
+    #banner{
         margin-top: 115px!important;
         transform: scale(1.6);
     }
