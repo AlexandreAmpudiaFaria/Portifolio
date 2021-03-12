@@ -57,7 +57,7 @@ li.list-group-item{
     display: inline-block;
 }
 
-.cool-link::after{
+.nav-item::after{
     content: '';
     display: block;
     width: 0;
@@ -67,7 +67,7 @@ li.list-group-item{
     transition: width .3s;
 }
 
-.cool-link:hover::after{
+.nav-item:hover::after{
     width: 100%;
     transition: width .3s;
 }
