@@ -75,7 +75,7 @@ a.nav-link{
 }
 
 #dropdown-menu-desktop>.dropdown-item{
-    background: rgba(254, 255, 255, 0.856);
+    background-color: rgba(254, 255, 255, 0.856);
 }
 
 .dropdown:hover>.dropdown-menu{
