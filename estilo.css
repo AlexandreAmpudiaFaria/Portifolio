@@ -341,11 +341,6 @@ margin-top: -20px;
     }
 }
 @media (max-width: 576px) { 
-    #bag{
-        background-color: #747474!important;
-    }
-}
-@media (max-width: 576px) { 
     .nav-item::after{
         display: none!important;
     }
