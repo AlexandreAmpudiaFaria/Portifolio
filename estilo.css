@@ -70,6 +70,10 @@ a.nav-link{
     transition: width .3s;
 }
 
+#dropdown-menu-desktop{
+    margin-top: 30px;
+}
+
 .dropdown:hover>.dropdown-menu{
 display: block;
 background: rgba(254, 255, 255, 0.856);
