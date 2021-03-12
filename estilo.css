@@ -50,7 +50,8 @@ a.nav-link{
 }
 
 #ajustar{
-    align-items: center!important;
+    display: block;
+    margin-left: auto;
 }
 
 li.list-group-item{
