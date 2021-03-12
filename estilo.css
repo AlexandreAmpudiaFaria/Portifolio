@@ -7,7 +7,7 @@ background-color: #272727!important;
 }
 
 .navbar-brand{
-    margin-left: -150px;
+    margin-left: -140px;
 }
 
 a.nav-link{
@@ -336,6 +336,7 @@ margin-top: -20px;
 @media (min-width: 992px){
 .navbar-expand-lg .navbar-collapse {
     margin-left: 40px;
+ }
 }
 @media (min-width: 1440px) {
     #banner{
