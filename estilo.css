@@ -50,7 +50,11 @@ a.nav-link{
 }
 
 #ajustar{
-    align-content: center!important;
+    align-items: center!important;
+}
+
+.cool-link{
+
 }
 
 .dropdown:hover>.dropdown-menu{
