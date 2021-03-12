@@ -341,8 +341,8 @@ margin-top: -20px;
     }
 }
 @media (max-width: 576px) { 
-    .teste,#bag{
-        color: #747474;
+    #bag{
+        background-color: #747474!important;
     }
 }
 @media (max-width: 576px) { 
