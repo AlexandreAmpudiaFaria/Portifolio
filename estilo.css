@@ -319,6 +319,11 @@ max-width: 270px!important;
     }
 }
 
+@media (max-width: 576px) { 
+    #fotomulher{
+        margin-top: 10px!important;
+}
+
 @media (min-width: 768px) {
     #teste2{
         display: none!important;
