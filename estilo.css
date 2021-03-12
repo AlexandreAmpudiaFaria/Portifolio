@@ -74,6 +74,10 @@ a.nav-link{
     margin-top: 30px!important;
 }
 
+#dropdown-menu-desktop>.dropdown-item{
+    background: rgba(254, 255, 255, 0.856);
+}
+
 .dropdown:hover>.dropdown-menu{
 display: block;
 background: rgba(254, 255, 255, 0.856);
