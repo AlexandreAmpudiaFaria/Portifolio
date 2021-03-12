@@ -71,7 +71,7 @@ a.nav-link{
 }
 
 #dropdown-menu-desktop{
-    margin-top: 30px;
+    margin-top: 30px!important;
 }
 
 .dropdown:hover>.dropdown-menu{
