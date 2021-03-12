@@ -322,6 +322,11 @@ max-width: 270px!important;
     margin-left: 50%!important;
 }
 
+#banner{
+    margin-top: 115px!important;
+    transform: scale(1.6);
+}
+
 #reguaMobile{
 margin-top: -20px;
 }
