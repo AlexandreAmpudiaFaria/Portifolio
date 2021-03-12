@@ -53,6 +53,10 @@ a.nav-link{
     align-items: center!important;
 }
 
+.list-group-horizontal{
+    display: inline-block;
+}
+
 .cool-link{
 
 }
