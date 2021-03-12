@@ -315,7 +315,7 @@ max-width: 270px!important;
 
 @media (min-width: 1440px) {
     #fotomulher{
-        display: none!important;
+        margin-top: 115px!important;
     }
 }
 
