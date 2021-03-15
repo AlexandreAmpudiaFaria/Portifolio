@@ -336,6 +336,7 @@ max-width: 270px!important;
     transform: scale(1.265);
     /*max-width: 1190px;
     max-height: 600px;*/
+    position: relative;
 }
 
 #reguaMobile{
