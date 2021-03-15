@@ -313,8 +313,8 @@ max-height: 32px;
     color: #747474;
 }
 
-.carousel {
-    /*width: 1140px;*/
+.single-item{
+    position: relative;
 }
 
 /*#produto-carousel{
@@ -343,10 +343,16 @@ max-width: 270px!important;
 margin-top: -20px;
 position: relative;
 }
+
 @media (min-width: 992px){
 .navbar-expand-lg .navbar-collapse {
     margin-left: 40px;
  }
+}
+@media (min-width: 1200px) {
+    .single-item{
+        display: none!important;
+    }
 }
 @media (min-width: 1198px){
     .imagens {
