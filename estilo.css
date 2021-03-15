@@ -324,12 +324,7 @@ max-height: 32px;
 
 .card{
 border: none!important;
-max-width: 270px!important;
 }
-
-.card-2{
-    border: none!important;
-    }
 
 #ajustar{
     margin-right: 50%!important;
@@ -349,11 +344,16 @@ margin-top: -20px;
 position: relative;
 }
 
-@media (min-width: 992px){
-.navbar-expand-lg .navbar-collapse {
-    margin-left: 40px;
+@media (min-width: 577px){
+.card {
+    max-width: 270px!important;
  }
 }
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-collapse {
+        margin-left: 40px;
+     }
+    }
 @media (min-width: 1200px) {
     .single-item{
         display: none!important;
