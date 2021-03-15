@@ -354,6 +354,11 @@ position: relative;
         display: none!important;
     }
 }
+@media (max-width: 1198px) {
+    .testeremove{
+        display: none!important;
+    }
+}
 @media (min-width: 1198px){
     .imagens {
         display: none!important;
