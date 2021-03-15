@@ -334,8 +334,8 @@ max-width: 270px!important;
 #banner{
     margin-top: 64px!important;
     transform: scale(1.265);
-    max-width: 1190px;
-    max-height: 600px;
+    /*max-width: 1190px;
+    max-height: 600px;*/
 }
 
 #reguaMobile{
