@@ -80,6 +80,10 @@ display: none!important;
     margin-top: 30px!important;
 }
 
+.menu{
+    position: relative;
+}
+
 #dropdown-menu-desktop>.dropdown-item{
     background-color: rgba(254, 255, 255, 0.856);
 }
