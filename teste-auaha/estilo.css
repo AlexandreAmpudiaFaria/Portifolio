@@ -72,8 +72,20 @@ a.nav-link{
     transition: width .3s;
 }
 
+#foto-mulher{
+position: relative;
+}
+
 #dropdown-menu-desktop{
     margin-top: 30px!important;
+}
+
+.menu{
+    /*position: relative;*/
+}
+
+#esconder{
+    display: none!important;
 }
 
 #dropdown-menu-desktop>.dropdown-item{
@@ -136,6 +148,7 @@ background-color: #ff5754!important;
 #regua{
     margin-top: 30px;
     transform: scale(1.06);
+    position: relative;
 }
 
 #regua2{
@@ -285,6 +298,9 @@ max-height: 32px;
     margin-top: 15px;
 }
 
+#mobile{
+    max-width: auto;
+}
 
 
 #rodapeDesktop{
@@ -297,8 +313,9 @@ max-height: 32px;
     color: #747474;
 }
 
-.carousel {
-    /*width: 1140px;*/
+.single-item{
+    position: relative;
+    max-width: 361px!important;
 }
 
 /*#produto-carousel{
@@ -307,7 +324,6 @@ max-height: 32px;
 
 .card{
 border: none!important;
-max-width: 270px!important;
 }
 
 #ajustar{
@@ -318,21 +334,51 @@ max-width: 270px!important;
 #banner{
     margin-top: 64px!important;
     transform: scale(1.265);
-    max-width: 1190px;
+    width: 100%;
     max-height: 600px;
+    position: relative;
 }
 
 #reguaMobile{
 margin-top: -20px;
+position: relative;
 }
-@media (min-width: 992px){
-.navbar-expand-lg .navbar-collapse {
-    margin-left: 40px;
+
+@media (min-width: 577px){
+.card {
+    max-width: 270px!important;
  }
 }
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-collapse {
+        margin-left: 40px;
+     }
+    }
+@media (min-width: 1200px) {
+    .single-item{
+        display: none!important;
+    }
+}
+@media (max-width: 1198px) {
+    .testeremove{
+        display: none!important;
+    }
+}
+@media (min-width: 1198px){
+    .imagens {
+        display: none!important;
+     }
+    }
 @media (min-width: 1440px) {
     #banner{
-        max-width: 1190px!important;
+        /*max-width: 1190px!important;
+        max-height: 600px!important;*/
+        margin-top: 94px!important;
+        transform: scale(1.392)!important;
+    }
+}
+@media (min-width: 768px) {
+    #banner{
         max-height: 600px!important;
         margin-top: 94px!important;
         transform: scale(1.392)!important;
