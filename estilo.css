@@ -348,6 +348,11 @@ position: relative;
     margin-left: 40px;
  }
 }
+@media (min-width: 1198px){
+    .imagens {
+        display: none;
+     }
+    }
 @media (min-width: 1440px) {
     #banner{
         /*max-width: 1190px!important;
