@@ -348,8 +348,8 @@ margin-top: -20px;
 }
 @media (min-width: 1440px) {
     #banner{
-        max-width: 1190px!important;
-        max-height: 600px!important;
+        /*max-width: 1190px!important;
+        max-height: 600px!important;*/
         margin-top: 94px!important;
         transform: scale(1.392)!important;
     }
