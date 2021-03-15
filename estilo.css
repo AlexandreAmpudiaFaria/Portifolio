@@ -356,6 +356,14 @@ position: relative;
         transform: scale(1.392)!important;
     }
 }
+@media (min-width: 768px) {
+    #banner{
+        max-width: 1190px!important;
+        max-height: 600px!important;
+        margin-top: 94px!important;
+        transform: scale(1.392)!important;
+    }
+}
 @media (max-width: 576px) { 
     #banner{
         display: none!important;
