@@ -72,6 +72,10 @@ a.nav-link{
     transition: width .3s;
 }
 
+#fotomulherMobile{
+display: none;
+}
+
 #dropdown-menu-desktop{
     margin-top: 30px!important;
 }
