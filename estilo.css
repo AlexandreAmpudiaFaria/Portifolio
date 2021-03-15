@@ -73,7 +73,7 @@ a.nav-link{
 }
 
 #fotomulherMobile{
-display: none!important;
+position: relative;
 }
 
 #dropdown-menu-desktop{
@@ -148,6 +148,7 @@ background-color: #ff5754!important;
 #regua{
     margin-top: 30px;
     transform: scale(1.06);
+    position: relative;
 }
 
 #regua2{
