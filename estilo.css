@@ -85,10 +85,6 @@ display: block;
 background: rgba(254, 255, 255, 0.856);
 }
 
-.list-group-item{
-    /*background: rgba(254, 255, 255, 0.856)!important;*/
-    background-color: rgba(211, 230, 230, 0.952)!important;
-    }
 
 #newsletter{
     color: #747474;
