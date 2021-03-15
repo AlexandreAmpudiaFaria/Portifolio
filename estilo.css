@@ -73,7 +73,7 @@ a.nav-link{
 }
 
 #fotomulherMobile{
-display: none;
+display: none!important;
 }
 
 #dropdown-menu-desktop{
