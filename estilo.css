@@ -315,6 +315,7 @@ max-height: 32px;
 
 .single-item{
     position: relative;
+    max-width: 361px!important;
 }
 
 /*#produto-carousel{
