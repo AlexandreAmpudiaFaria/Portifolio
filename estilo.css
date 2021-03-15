@@ -341,6 +341,7 @@ max-width: 270px!important;
 
 #reguaMobile{
 margin-top: -20px;
+position: relative;
 }
 @media (min-width: 992px){
 .navbar-expand-lg .navbar-collapse {
